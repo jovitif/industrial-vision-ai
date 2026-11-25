@@ -4,3 +4,18 @@ opencv-python
 matplotlib
 pillow
 jupyter
+
+# Anomaly Detection / Deep Learning
+anomalib[cpu]==2.7.1
+
+# Dataset
+datasets
+huggingface_hub
+
+# Computer Vision / Image Processing
+numpy
+Pillow
+opencv-python
+
+# Visualization
+matplotlib
